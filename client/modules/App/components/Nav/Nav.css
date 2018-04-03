@@ -1,0 +1,22 @@
+.link {
+    margin-left: 5px;
+    padding: 5px;
+    display: inline-block;
+    width: 80px;
+}
+
+.link > a {
+    text-decoration: none;
+    color: #EFFFF7;    
+    font-weight: bold;
+}
+
+.link:hover > a {
+    color: rgb(226, 12, 226);
+}
+
+
+.nav {
+    display: inline-block;
+    text-align: center;
+}
